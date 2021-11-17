@@ -1,0 +1,1 @@
+`int getc(FILE *stream)`: gets the next character (an unsigned char) from the specified stream and advances the position indicator for the stream.
